@@ -1,5 +1,7 @@
 ![logo](https://github.com/NILAM-RAI/IB-LOADER/blob/main/INFO/IMG_20240905_204922.jpg)
 
+![logo](https://github.com/NILAM-RAI/IB-LOADER/blob/main/INFO/IMG_20240906_062931.jpg)
+
 * INSTALL COMMOND
 ```bash
 pkg update 
